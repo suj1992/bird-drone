@@ -1,6 +1,6 @@
 streamlit
 scikit-learn==1.0.2
 tensorflow==2.6.0
-keras==2.4.3
+Keras==2.4.3
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
