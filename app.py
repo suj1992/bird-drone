@@ -78,5 +78,5 @@ if uploded_image is not None:
 
         with col2:
             st.subheader('It is a'+ ' ' +str(filenames[index_pos].split('\\')[1])+ ' '+ 'and more similar image is:')
-            #st.image('filenames[index_pos]')
+            st.text('filenames[index_pos]')
 
